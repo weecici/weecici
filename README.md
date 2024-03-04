@@ -7,7 +7,7 @@ I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="
 
 <div>
 
-<img align="right" width="" src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif" style="border-radius:10px"/>
+<img align="right" width="260" src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739"/>
 
 <h3> 💻 My Tech Forte  <h3>
 
@@ -27,10 +27,10 @@ I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=cc03102005@gmail.com) -->
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20only%20legitimate%20use%20of%20a%20computer%20is%20to%20play%20games.&author=Eugene%20Jarvis)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicici0310&layout=compact) -->
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20only%20legitimate%20use%20of%20a%20computer%20is%20to%20play%20games.&author=Eugene%20Jarvis)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
