@@ -3,7 +3,7 @@
 ---
 
 Welcome to my page. Have a nice day! <br>
-I'm a student from Vietnam :vietnam:, with a burning love for Tech 🧑‍💻 and Anime ⛩️.
+I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="🇻🇳" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f1fb-1f1f3.svg" width="15" height = "13"/> , with a burning love for Tech 🧑‍💻 and Anime <img width="25" src="https://emoji.discadia.com/emojis/406b6f0f-1840-4bdf-bfc4-c59af850f5ca.GIF"/>.
 
 <div align="center">
 
