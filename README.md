@@ -8,9 +8,9 @@
 Welcome to my page. Have a nice day! <br>
 I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="🇻🇳" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f1fb-1f1f3.svg" width="15" height = "13"/> , with a burning love for Tech 🧑‍💻 and Anime <img width="25" src="https://emoji.discadia.com/emojis/406b6f0f-1840-4bdf-bfc4-c59af850f5ca.GIF"/>.
 
-🏫 Uni : <span style="font-weight: bold;font-size:0.5em;"> University of Information and Technology </span>
+<h4> 🏫 Uni : University of Information and Technology<h4>
 
-🔬 Major: <span style="font-weight: bold;font-size:0.5em;">Computer Science</span>
+<h4> 🔬 Major: <span>Computer Science</span><h4>
 
 <br> <br> <br>
 
@@ -45,7 +45,7 @@ I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="
 
 <br> <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The+only+legitimate+use+of+a+computer+is+to+play+games.&author=Eugene+Jarvis)](https://github.com/piyushsuthar/github-readme-quotes)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The+only+legitimate+use+of+a+computer+is+to+play+games.&author=Eugene+Jarvis)
 
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicici0310&layout=compact) -->
