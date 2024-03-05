@@ -17,9 +17,9 @@ I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="
 
 
 
-<img align="right" width="280" style="position:absolute;left: calc(50% + 10px);" src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739"/>
+<img align="right" width="280" style="position:absolute;left: 50%;" src="https://camo.githubusercontent.com/e0f095b942a931f7218f2e9af6a18c791f6d7724b2e524c6509626e3fd7541b5/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739"/>
 
-<div style="position:absolute;right: calc(50% + 10px);">
+<div style="position:absolute;right:50%;">
 <h3> 💻 My Tech Forte  <h3>
 
 &emsp; ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash)
