@@ -45,7 +45,7 @@ I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="
 
 <br> <br>
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The+only+legitimate+use+of+a+computer+is+to+play+games.&author=Eugene+Jarvis)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true&quote=The+only+legitimate+use+of+a+computer+is+to+play+games.&author=Eugene+Jarvis)
 
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wicici0310&layout=compact) -->
