@@ -28,7 +28,7 @@ I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="
 
 </div>
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> 
 
 <div align="center"> 
 
