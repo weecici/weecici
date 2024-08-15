@@ -40,7 +40,7 @@ I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="
 <h3> 📲 Where to find me  <h3>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/weecici)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-ch%C3%AD-c%C6%B0%E1%BB%9Dng-4265152aa/)
+[![Instagram](https://img.shields.io/badge/instagram.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/weecici)
 
 <br> <br>
 
