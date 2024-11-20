@@ -25,7 +25,7 @@ I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="
 
 
 <div>
-<h3> 💻 My Tech Forte  <h3>
+<h3> 💻 My Technical Forte  <h3>
 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash)
 &emsp;  &emsp; ![My Skills](https://skillicons.dev/icons?i=github,git,neovim,vscode)
