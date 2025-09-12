@@ -65,7 +65,7 @@ I'm a student from Vietnam <img draggable="false" role="img" class="emoji" alt="
 <h3 align="left">  💻 OSes:</h3>
 <br>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,windows&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cachyos,arch,windows&titles=true)
 
 <h3 align="left"> 📝 Editors:</h3>
 <br>
