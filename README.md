@@ -58,7 +58,6 @@
 
 <h1> 💻 Personal Preferences </h1>
 
-<br>
 <h3 align="left">  OS and DE/WM:</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cachyos,arch,windows,hyprland,kde&titles=true&theme=light)
