@@ -45,7 +45,7 @@
 <br>
 <h3 align="left"> Databases:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlserver,qdrant&titles=true&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,redis,qdrant&titles=true&theme=light)
 
 <br>
 <h3 align="left"> Tools: </h3>
