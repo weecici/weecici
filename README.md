@@ -32,42 +32,34 @@
 
 <h3 align="left"> Languages:</h3>
 
-
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,golang,javascript,typescript,bash,latex,markdown&titles=true&theme=light)
 
-<br>
 <h3 align="left"> Frameworks:</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,langchain,llamaindex,huggingface,fastapi,nextjs,gin&titles=true&theme=light)
 
-
-
-<br>
 <h3 align="left"> Databases:</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,redis,qdrant&titles=true&theme=light)
 
-<br>
 <h3 align="left"> Tools: </h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,git,githubactions,jupyter,googlecolab,kaggle&titles=true&theme=light)
-
-
 
 <br><br>
 
 <h1> 💻 Personal Preferences </h1>
 
-<h3 align="left">  OS and DE/WM:</h3>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cachyos,arch,windows,hyprland,kde&titles=true&theme=light)
-
-
-(I use Arch-based, btw 😃)
-<br>
-<h3 align="left"> Editors:</h3>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode&titles=true&theme=light)
-
-(can't live without vim-motion 😭)
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 1;">
+    <h3 align="left">OS and DE/WM:</h3>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos,arch,windows&titles=true&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland,kde&titles=true&theme=light" />
+  </div>
+  
+  <div style="flex: 1;">
+    <h3 align="left">Editors:</h3>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode&titles=true&theme=light" />
+    <p><i>(can't live without vim-motion 😭)</i></p>
+  </div>
 </div>
