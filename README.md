@@ -50,16 +50,10 @@
 
 <h1> 💻 Personal Preferences </h1>
 
-<div style="display: flex; gap: 10px;">
-  <div style="flex: 1;">
-    <h3 align="left">OS and DE/WM:</h3>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos,arch,windows&titles=true&theme=light" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland,kde&titles=true&theme=light" />
-  </div>
+<h3 align="left">OS and DE/WM:</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos,arch,windows,hyprland,kde&titles=true&theme=light" />
   
-  <div style="flex: 1;">
-    <h3 align="left">Editors:</h3>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode&titles=true&theme=light" />
-    <p><i>(can't live without vim-motion 😭)</i></p>
-  </div>
+<h3 align="left">Editors:</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode&titles=true&theme=light" />
+<p><i>(can't live without vim-motion 😭)</i></p>
 </div>
