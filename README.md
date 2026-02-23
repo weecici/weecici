@@ -49,5 +49,7 @@
   
 <h3 align="left">Editors:</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vim,neovim,vscode&titles=true&theme=light" />
-<p><i>(can't live without vim-motion 😭)</i></p>
+
+(can't live without vim-motion 😭)
+
 </div>
