@@ -38,7 +38,7 @@
 
 <h3 align="left"> Databases & Tools:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,redis,qdrant,docker,git,githubactions,jupyter,googlecolab,kaggle&titles=true&theme=light)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,redis,qdrant,milvus,docker,git,githubactions,jupyter,googlecolab,kaggle&titles=true&theme=light)
 
 <br><br>
 
