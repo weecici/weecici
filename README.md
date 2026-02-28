@@ -17,12 +17,12 @@
 
 <h2> 💬 Social Media  </h1>
 
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light)](mailto:cuongnguyen@duck.com)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/cuong-nc) &nbsp;
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light)](https://github.com/weecici) &nbsp;
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=light)](https://www.facebook.com/weecici) &nbsp;
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=light)](https://www.instagram.com/weecici) &nbsp;
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/cuong-nc) &nbsp;
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=light)](https://t.me/weecici7) &nbsp;
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light)](https://github.com/weecici) &nbsp;
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light)](mailto:weecici@duck.com)
 
 <br><br>
 
