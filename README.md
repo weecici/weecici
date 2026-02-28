@@ -4,7 +4,7 @@
 
 <h2> 📝 About Me  </h1>
 
-<p align="left"> I'm Cuong Chi Nguyen, an undergraduate student from HCMC, Vietnam <img draggable="false" role="img" class="emoji" alt="🇻🇳" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f1fb-1f1f3.svg" width="15" height = "10"/>, who is exploring awesome Deep Learning and Natural Language Processing world. BTW, I use Arch(-based) :)</p>
+<p align="left"> I'm Cuong Nguyen, an undergraduate student from HCMC, Vietnam <img draggable="false" role="img" class="emoji" alt="🇻🇳" src="https://s.w.org/images/core/emoji/14.0.0/svg/1f1fb-1f1f3.svg" width="15" height = "10"/>, who is exploring awesome Deep Learning and Natural Language Processing world. BTW, I use Arch(-based) :)</p>
 
 | Key         | Value                                |
 | ----------- | ------------------------------------ |
