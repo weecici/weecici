@@ -8,9 +8,9 @@
 
 | Field       | Value                                         |
 | ----------- | --------------------------------------------- |
+| 📍 Location | Ho Chi Minh City, Vietnam                     |
 | 🏫 Uni      | University of Information Technology - VNUHCM |
 | 🔬 Major    | Computer Science                              |
-| 📍 Location | Ho Chi Minh City, Vietnam                     |
 | 🎓 Year     | 3rd Year Undergraduate                        |
 
 <br><br>
