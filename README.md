@@ -83,7 +83,7 @@ And I use Arch(-based), btw :P
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=weecici&layout=normal&theme=tokyonight&card_width=500&hide=jupyter%20notebook" alt="Top Languages" height="180px" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=weecici&layout=normal&theme=tokyonight&card_width=400&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
 
 ## 🚀 Selected Project Highlights
