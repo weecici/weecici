@@ -11,7 +11,7 @@
 
 My principle is to **grow fast, but understand deeply**. I enjoy building new things with the help of AI coding tools to solve problems that I find interesting. I also love exploring new technologies, whether it's a popular framework, a developer tool, or a system configuration that improves my workflow and makes building software more enjoyable :3
 
-I'm actually a **perfectionist**. I would like to spent hours refining my projects until the small details feel right, not just making them work. At the same time, my curiosity pushes me to dig beneath the surface of subjects I'm interested in (e.g. deep learning, algorithms, system design, software project principles, etc.) to understand how things actually work, building strong fundamentals.  
+I'm actually a **perfectionist**. I would like to spend hours refining my projects until the small details feel right, not just making them work. At the same time, my curiosity pushes me to dig beneath the surface of topics that interest me (e.g. deep learning, algorithms, system design, software project principles, etc.) to understand how things actually work, building strong fundamentals. I believe that a solid foundation and practical experience are key to building high-quality solutions!
 
 
 And I use Arch(-based), btw :P
