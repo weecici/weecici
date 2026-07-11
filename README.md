@@ -1,46 +1,168 @@
-<h1> Hey! Nice to see you. 😀</h1>
-
-I'm Cuong Nguyen, a CS undergrad from Vietnam, who is exploring awesome Deep Learning and Natural Language Processing world. BTW, I use Arch :P.
-
 <div align="center">
 
-| Field       | Value                                         |
-| ----------- | --------------------------------------------- |
-| 📍 Location | Ho Chi Minh City, Vietnam                     |
-| 🏫 Uni      | University of Information Technology - VNUHCM |
-| 🔬 Major    | Computer Science                              |
+# Hi, I'm Cuong Chi Nguyen 👋
 
-<br>
-<h2> 💬 Contact Me  </h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=550&height=50&lines=Computer+Science+@+UIT-VNUHCM+🎓;AI+Engineer+%26+Software+Engineer+🚀)](https://git.io/typing-svg)
 
-[![Mail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light)](mailto:cuongnguyen@duck.com)
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/cuong-nc)
-[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&theme=light)](https://github.com/weecici)
-[![Facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=light)](https://www.facebook.com/weecici)
-[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=light)](https://www.instagram.com/weecici)
-[![Telegram](https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=light)](https://t.me/weecici7)
+---
 
-<br>
-<h2> 🛠 Techs and Tools </h2>
+## 🌟 About Me
 
-<h4 align="left"> Languages:</h4>
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,golang,javascript,typescript,bash,latex,markdown&titles=true&theme=light)
+<div align="left">
+Aspiring AI Engineer and Software Engineer specializing in applied AI and software infrastructure. ... . Strong engineering foundation with hands-on experience in ....
 
-<h4 align="left"> Frameworks:</h4>
+📍 **Location:** Ho Chi Minh City, Vietnam  
+🎓 **University:** University of Information Technology (UIT - VNUHCM)  
+</div>
 
-![FrameworksWithTitles](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,langchain,llamaindex,huggingface,fastapi,nextjs,gin&titles=true&theme=light)
+## 💬 Connect with Me
 
-<h4 align="left"> Databases & Tools:</h4>
 
-![DatabasesAndTools](https://go-skill-icons.vercel.app/api/icons?i=postgresql,redis,qdrant,milvus,docker,git,githubactions,jupyter,googlecolab,kaggle&titles=true&theme=light)
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light&titles=true)](mailto:cuongc.nguyen0310@gmail.com)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=light&titles=true)](https://www.linkedin.com/in/cuong-nc)
+[![Telegram](https://go-skill-icons.vercel.app/api/icons?i=telegram&theme=light&titles=true)](https://t.me/weecici7)
+[![Facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=light&titles=true)](https://www.facebook.com/weecici)
 
-<br>
-<h2> 💻 Personal Preferences </h2>
 
-![PersonalPreferences](https://go-skill-icons.vercel.app/api/icons?i=cachyos,arch,windows,hyprland,neovim,vscode&titles=true&theme=light)
+### 🛠️ Tech Stack & Tools
 
-<br>
-<h2> 🌟 Projects </h2>
+<table>
+  <tr>
+    <td align="center" width="150"><b>Languages</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,golang,javascript,typescript&theme=light&titles=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI & ML</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,langchain,huggingface&theme=light&titles=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & App Dev</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,gin,nextjs&theme=light&titles=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data & MLOps</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=spark,kafka,clickhouse,airflow,flink,grafana,prometheus,mlflow&theme=light&titles=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,redis,qdrant,milvus&theme=light&titles=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" widt><b>Tools</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,githubactions,bash&theme=light&titles=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" widt><b>Preferences</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,cachyos,neovim,vscode,firefox,obsidian&theme=light&titles=true" />
+    </td>
+  </tr>
+</table>
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=weecici&theme=tokyonight" alt="GitHub Streak" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=weecici&layout=normal&theme=tokyonight&card_width=500&hide=jupyter%20notebook" alt="Top Languages" height="180px" />
+</p>
+
+## 🚀 Selected Project Highlights
+
+<div align="left">
+<!-- Auralext RAG System -->
+<details open>
+  <summary><b>🤖 Auralext RAG System (AI & Infrastructure)</b></summary>
+  <br/>
+  <blockquote>
+    A multimodal Retrieval-Augmented Generation (RAG) system for text and audio, enabling unified semantic search across documents and recordings.
+  </blockquote>
+  <ul>
+    <li><b>Stack:</b> Python, FastAPI, LangChain, Hugging Face, Milvus, Redis, Docker, GitHub Actions</li>
+    <li><b>Key Highlights:</b>
+      <ul>
+        <li>Improved retrieval quality using hybrid search and cross-encoder reranking (reaching ~0.40 NDCG@10 on Cranfield dataset).</li>
+        <li>Integrated Milvus vector DB for high-throughput embedding storage and retrieval.</li>
+        <li>Built an OpenAI-compatible API to seamlessly interface with frontend clients like OpenWebUI.</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<!-- Medical Record Management System -->
+<details open>
+  <summary><b>🏥 Medical Record Management System (Backend & Systems)</b></summary>
+  <br/>
+  <blockquote>
+    A production-grade, role-based backend hospital application standardized to medical ministry formats.
+  </blockquote>
+  <ul>
+    <li><b>Stack:</b> Go, Gin, PostgreSQL, Docker, Swagger, WebSockets</li>
+    <li><b>Key Highlights:</b>
+      <ul>
+        <li>Engineered a high-performance Go backend structured in a 3-layer architecture.</li>
+        <li>Implemented role-based JWT authentication enforcing granular access control for seven distinct roles.</li>
+        <li>Modeled compliant health record validation using PostgreSQL JSONB and JSON Schema; built real-time WebSocket doctor-patient messaging.</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<!-- Image-to-LaTeX OCR System -->
+<details>
+  <summary><b>📸 Image-to-LaTeX OCR System (Deep Learning)</b></summary>
+  <br/>
+  <blockquote>
+    An end-to-end deep learning OCR system translating images of mathematical equations into compilable LaTeX code.
+  </blockquote>
+  <ul>
+    <li><b>Stack:</b> Python, PyTorch, timm, OpenCV, Streamlit</li>
+    <li><b>Key Highlights:</b>
+      <ul>
+        <li>Benchmarked six neural architectures (CNN encoder + Transformer/LSTM decoders) on the im2latex-100k dataset.</li>
+        <li>Achieved 91.46 BLEU-4 and 46.95% exact match rate on the augmented test set.</li>
+        <li>Developed an interactive Streamlit UI for OCR inference, real-time LaTeX rendering, and attention visualization.</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<!-- Sentiment Analysis for Mental Health -->
+<details>
+  <summary><b>🧠 Sentiment Analysis for Mental Health (NLP & Web)</b></summary>
+  <br/>
+  <blockquote>
+    A data pipeline and NLP system analyzing Vietnamese student sentiment from social media to track mental health trends.
+  </blockquote>
+  <ul>
+    <li><b>Stack:</b> Python, PyTorch, Scikit-learn, Hugging Face, BERT, Optuna, Docker</li>
+    <li><b>Key Highlights:</b>
+      <ul>
+        <li>Fine-tuned BERT to achieve 84.14% macro F1 score on a noisy 40,000-sample Vietnamese dataset.</li>
+        <li>Engineered an end-to-end automated pipeline crawling Reddit data and displaying real-time insights on a dashboard.</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<br/>
 
 </div>
+
+### 👇 Explore my pinned repositories below to see my code in action!
+
+
