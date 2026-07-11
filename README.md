@@ -1,16 +1,21 @@
+# Hi, I'm Cuong Chi Nguyen 👋
 <div align="center">
 
-# Hi, I'm Cuong Chi Nguyen 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=550&height=50&lines=Aspiring+AI+Engineer+%26+Software+Engineer+🚀;Computer+Science+@+UIT-VNUHCM+🎓)](#)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=550&height=50&lines=Computer+Science+@+UIT-VNUHCM+🎓;AI+Engineer+%26+Software+Engineer+🚀)](https://git.io/typing-svg)
-
----
 
 ## 🌟 About Me
 
 
 <div align="left">
-Aspiring AI Engineer and Software Engineer specializing in applied AI and software infrastructure. ... . Strong engineering foundation with hands-on experience in ....
+
+My principle is to **grow fast, but understand deeply**. I enjoy building new things with the help of AI coding tools to solve problems that I find interesting. I also love exploring new technologies, whether it's a popular framework, a developer tool, or a system configuration that improves my workflow and makes building software more enjoyable :3
+
+I'm actually a **perfectionist**. I would like to spent hours refining my projects until the small details feel right, not just making them work. At the same time, my curiosity pushes me to dig beneath the surface of subjects I'm interested in (e.g. deep learning, algorithms, system design, software project principles, etc.) to understand how things actually work, building strong fundamentals.  
+
+
+And I use Arch(-based), btw :P
+
 
 📍 **Location:** Ho Chi Minh City, Vietnam  
 🎓 **University:** University of Information Technology (UIT - VNUHCM)  
