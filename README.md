@@ -90,7 +90,7 @@ And I use Arch(-based), btw :P
 
 <div align="left">
 <!-- Auralext RAG System -->
-<details open>
+<details>
   <summary><b>🤖 Auralext RAG System (AI & Infrastructure)</b></summary>
   <br/>
   <blockquote>
@@ -109,7 +109,7 @@ And I use Arch(-based), btw :P
 </details>
 
 <!-- Medical Record Management System -->
-<details open>
+<details>
   <summary><b>🏥 Medical Record Management System (Backend & Systems)</b></summary>
   <br/>
   <blockquote>
