@@ -52,12 +52,6 @@ And I use Arch(-based), btw :P
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Data & MLOps</b></td>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=spark,kafka,clickhouse,airflow,flink,grafana,prometheus,mlflow&theme=light&titles=true" />
-    </td>
-  </tr>
-  <tr>
     <td align="center"><b>Databases</b></td>
     <td>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,redis,qdrant,milvus&theme=light&titles=true" />
