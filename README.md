@@ -11,7 +11,7 @@ My principle is to **grow fast, but understand things deeply**. And I use Arch(-
 
 ### 🛠️ Tech Stack & Tools
 
-| Category    |                                                                                                                                   |
+| Category    | Technologies                                                                                                                      |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | Languages   | ![languages](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp&theme=light&titles=true)                                  |
 | AI & ML     | ![AI & ML](https://go-skill-icons.vercel.app/api/icons?i=pytorch,langchain,huggingface,numpy,pandas&theme=light&titles=true)      |
